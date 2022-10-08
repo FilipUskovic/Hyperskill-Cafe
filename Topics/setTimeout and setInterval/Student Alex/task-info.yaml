@@ -1,0 +1,18 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    function showName(name) {
+      return(`Hello, student!`);
+    }
+
+    const studentGreeting = setInterval();
+    setTimeout(() => clearInterval(studentGreeting), 7000);
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9686#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 27 Sep 2022 18:40:13 UTC
+record: -1

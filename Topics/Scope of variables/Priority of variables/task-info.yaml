@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: created with let
+- text: global
+- text: created without a declaration keyword
+- text: local
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9775#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 27 Sep 2022 19:49:45 UTC
+record: -1
+selected_options:
+- 3
+local_check: false
